@@ -18,6 +18,7 @@ from collections import Counter
 import sqlite3
 from firebase import firebase
 db= firebase.FirebaseApplication("https://ejemplo2diplomado-a0e98-default-rtdb.firebaseio.com/")
+#cambio para gitsss
 
 class Inicio(QDialog):
     def __init__(self):
